@@ -45,7 +45,8 @@ function NavBar() {
           </Link>
           <span className="pl-4 text-xl flex items-center gap-2">
             <a href="tel:+918585034143" className="glowing-text text-gray-900 hover:text-blue-600 flex items-center gap-2">
-              <i className="fa-solid fa-mobile-alt"></i> +91-8585034143
+              <i className="fa-solid fa-mobile-alt"></i> +91-8981554464
+
             </a>
           </span>
         </div>

@@ -28,7 +28,7 @@ const services: Service[] = [
   {
     title: "TARGETED MARKETING",
     description: "Strategic branding solutions to reach your ideal audience.",
-    imageUrl: "https://i.postimg.cc/5yc7wD1B/bottle-pic.jpg",
+    imageUrl: "https://i.postimg.cc/BnbMrptW/Whats-App-Image-2025-02-15-at-16-39-44-cd4f7a44.jpg",
     path: "/projects/targeted-marketing",
   },
   {

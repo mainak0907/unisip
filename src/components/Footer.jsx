@@ -39,9 +39,10 @@ const Footer = () => {
           {/* Contact Info */}
           <div>
             <h3 className="text-base font-semibold mb-3">CONTACT US</h3>
-            <p className="text-gray-400">Vivekananda Colony, Liluah, Howrah</p>
+            <p className="text-gray-400">3/7 Girish Ghosh Road P.O Belurmath, nr. Rangoli Mall, near Liluah, Howrah</p>
             <p className="text-gray-400">West Bengal 711202</p>
-            <p className="text-gray-400">PHONE: (+91) 8585034143 / 7439825241</p>
+            <p className="text-gray-400">PHONE: (+91) 8981554464
+            </p>
             <p className="text-gray-400">
               E-MAIL: <button onClick={openGmail} className="text-blue-400 hover:text-blue-600 underline">support@unisip.in</button>
             </p>

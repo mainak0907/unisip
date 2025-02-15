@@ -33,7 +33,9 @@ export default function Contact() {
                 <path d="M15 7a2 2 0 0 1 2 2" />
                 <path d="M15 3a6 6 0 0 1 6 6" />
               </svg>
-              <p className="pl-4 text-black text-base">+91 8585034143 / 7439825241</p>
+              <a href="tel:+918981554464" className="pl-4 text-black text-base hover:text-blue-500">
+                +91 8981554464
+              </a>
             </div>
 
             {/* Email with Click Handler */}
@@ -51,7 +53,7 @@ export default function Contact() {
             {/* Google Maps Iframe */}
             <div className="flex pb-2 items-center">
               <Iframe 
-                url="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3682.9259408948956!2d88.34746842385142!3d22.619240581262044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f89d64509a4943%3A0x47164efc4d2b3b43!2sVivekananda%20Colony%2C%20Liluah%2C%20Howrah%2C%20West%20Bengal%20711202!5e0!3m2!1sen!2sin!4v1739115191777!5m2!1sen!2sin"
+                url="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3682.8294883476606!2d88.34937917385156!3d22.622841681129795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s3%2F7%20Girish%20Ghosh%20Road%20P.O%20Belurmath%2C%20nr.%20Rangoli%20Mall%2C%20near%20Liluah%2C%20Howrah%2C%20West%C2%A0Bengal%C2%A0711202!5e0!3m2!1sen!2sin!4v1739642683619!5m2!1sen!2sin"
                 className="md:w-[640px] md:h-[300px] sm:w-[300px] sm:h-[300px]"
                 display="block"
                 position="relative"
