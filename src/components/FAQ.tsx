@@ -12,7 +12,7 @@ const faqData: FAQItem[] = [
   {
     question: "HOW DO YOU ADVERTISE ?",
     answer:
-      "You can fill out the form on our website with your contact and company details. We're also available at support@unisip.in or through our social media if you'd prefer to reach out directly. You can give us a call at (+91) 8585034143 / 7439825241",
+      "You can fill out the form on our website with your contact and company details. We're also available at support@unisip.in or through our social media if you'd prefer to reach out directly. You can give us a call at (+91) 8981554464",
   },
   {
     question:"HOW MUCH DOES IT COST TO ADVERTISE ?",
