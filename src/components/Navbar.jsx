@@ -44,7 +44,7 @@ function NavBar() {
             <span className="text-2xl font-extrabold text-gray-900">UNISIP</span>
           </Link>
           <span className="pl-4 text-xl flex items-center gap-2">
-            <a href="tel:+918585034143" className="glowing-text text-gray-900 hover:text-blue-600 flex items-center gap-2">
+            <a href="tel:+918981554464" className="glowing-text text-gray-900 hover:text-blue-600 flex items-center gap-2">
               <i className="fa-solid fa-mobile-alt"></i> +91-8981554464
 
             </a>
@@ -73,7 +73,7 @@ function NavBar() {
           <span className="text-lg font-extrabold text-gray-900">UNISIP</span>
         </Link>
         <div className="flex items-center gap-6">
-          <a href="tel:+918585034143" className="text-2xl">
+          <a href="tel:+918981554464" className="text-2xl">
             <i className="fa-solid fa-phone"></i>
           </a>
           <button onClick={() => setMenuOpen(!menuOpen)} className="text-2xl focus:outline-none">
